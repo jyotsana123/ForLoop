@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /StringOccurance.class
 /StringReverseWord.class
 /hello.class
@@ -5,3 +6,29 @@
 /s2.class
 /s3.class
 /sortarray.class
+=======
+<<<<<<< HEAD
+/s2.class
+/s3.class
+=======
+/hello.class
+/s1.class
+/s4.class
+>>>>>>> develop
+/s5.class
+/NumberPattern.class
+/Array.class
+/SmallestNumOfArray.class
+/Interview.class
+/ArrayList.class
+/ArrayListDemo.class
+/ReverseString.class
+/StringPalindromeCheck.class
+/interview2.class
+/StringConcate.class
+/practice.class
+/ConcatStringInt.class
+/CastOperator.class
+/HashMapIterate.class
+/Duplicate.class
+>>>>>>> c2905aaaf95edc685e4520587decade9a01ae530
